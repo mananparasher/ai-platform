@@ -1,4 +1,4 @@
-name: mlflow
+name: time-series-prediction
 channels:
   - defaults
   - anaconda
